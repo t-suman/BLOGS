@@ -1,0 +1,21 @@
+.wrapper {
+  height: 454px;
+  display: flex;
+}
+.sectionLeft {
+  width: 70%;
+  height: 100%;
+}
+.imageBox {
+  height: 100%;
+  width: 100%;
+}
+.imageBox img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.sectionRight {
+  width: 30%;
+  height: 150px;
+}

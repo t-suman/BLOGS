@@ -8,7 +8,7 @@ import styles from "./logo.module.css";
 const Logo = (props) => {
   return (
     <div className={styles.logo}>
-      <a href="#">Suman</a>
+      <a href="/">Suman</a>
     </div>
   );
 };

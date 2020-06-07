@@ -1,5 +1,4 @@
 import React from "react";
-import styles from "./hero.module.css";
 import Card from "../UI/Card/card";
 import Logo from "../Logo/logo";
 import NavBar from "../NavBar/navBar";
